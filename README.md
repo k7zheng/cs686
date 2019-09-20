@@ -27,3 +27,6 @@ To set up a virtual environment with name .env, run the following inside the hom
 
 ### Notebooks
 From [here](http://cs231n.github.io/ipython-tutorial/)
+
+### Structuring Assignment Submissions Inspo
+From [here](https://github.com/jfranchetto/cs486/tree/master/a2)
